@@ -1,4 +1,3 @@
 # DES_Encryption
-
-1. Note: You can understand how the algorithm works step by step by opening the comment lines
-2. Note: Entries must be 64 bit hexadecimal values
+1. Not: Yorum satırlarını açarak algoritmanın nasıl çalıştığını adım adım anlayabilirsiniz.
+2. Not: Girişler 64 bit boyutunda onaltılık değerler olmalıdır.
